@@ -5,6 +5,3 @@ def add_tip(amount, prompt):
         percent_tip = float(input(prompt))
     total = amount * (100 + percent_tip)/100
     return total
-
-
-print()
