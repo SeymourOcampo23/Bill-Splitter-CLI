@@ -1,4 +1,3 @@
-num_people = 0
 def get_positive_number(prompt):
     """Will keep asking user until they enter a whole number > 0"""
     num_people = 0
